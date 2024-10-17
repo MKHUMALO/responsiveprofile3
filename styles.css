@@ -1,0 +1,37 @@
+/* Custom styles for additional design */
+h1 span {
+  color: #007bff;
+}
+
+.card {
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+footer {
+  background-color: #f8f9fa;
+}
+
+.navbar-nav .nav-link {
+  color: #333;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #007bff;
+}
+
+section {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+p {
+  color: #555;
+}
